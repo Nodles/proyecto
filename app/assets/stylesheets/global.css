@@ -1,0 +1,13 @@
+/* CSS Document */
+body{
+background:url('../images/fondo.png') repeat right top;
+width : 976px ;
+margin-left : auto;
+margin-right : auto;
+padding : 0px;
+}
+header{
+     background:url('../images/cabecera.png') no-repeat right top;
+     height:370px;
+     width:976px;
+}
